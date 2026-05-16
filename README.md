@@ -6,7 +6,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Projects](https://img.shields.io/badge/projects-24-orange.svg)]()
+[![Projects](https://img.shields.io/badge/projects-21-orange.svg)]()
 [![Code Scanning](https://img.shields.io/badge/CodeQL-enabled-brightgreen.svg)]()
 
 **🚀 Perfect for beginners | 💡 Learn by doing | 🎨 Beautiful UI | ⚡ Zero setup required**
@@ -67,6 +67,51 @@ python games/Rock-Paper-Scissor/Rock-Paper-Scissor.py
 ---
 
 ## 🙌 Contributors
+
+- Lavanya-Talele
+
+
+- advikdivekar
+
+
+- Aqifcodes
+
+
+- Devexhhh
+
+
+- Sparshjoshi-iit
+
+
+- shreyasgawande19
+
+
+- vedikabajaj05
+
+
+- abdullahxyz85
+
+
+- Tech4Aditya
+
+
+- Grihika
+
+
+- 01mayankk
+
+
+- Vinanthi07
+
+
+- Ranjanmaiti6
+
+
+- Mayank251125
+
+
+- dhanushrajvr
+
 
 - shreyasarote7717-cyber
 
@@ -178,6 +223,17 @@ python games/FLAMES-Game/FLAMES-Game.py
 </td>
 <td width="50%">
 
+#### 🔤 Word Scramble Game
+Unscramble shuffled words before attempts run out!
+- 🧩 Random programming-themed words
+- 💡 Helpful hint for every round
+- 🔥 Score and streak tracking
+```bash
+python games/Word-Scramble-Game/Word-Scramble-Game.py
+```
+
+</td>
+</tr>
 
 <tr>
 <td width="50%">
@@ -247,6 +303,20 @@ Find all the hidden differences between two interactive canvases!
 - 🌟 Three distinct difficulty levels
 - ⏱️ Built-in timer and hint system
 - 🌐 *Web App Exclusive Project*
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🐦 Flappy Game
+Fly through pipes and survive as long as possible!
+- 🦅 Interactive jump mechanics
+- 💥 Collision detection
+- 🏆 High score tracking
+```bash
+python games/Flappy-Game/Flappy-Game.py
+```
 
 </td>
 </tr>
